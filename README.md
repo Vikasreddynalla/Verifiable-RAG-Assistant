@@ -159,9 +159,9 @@ Verifiable-RAG-Assistant/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Vikasreddynalla08/verifiable-rag-assistant.git
+git clone https://github.com/Vikasreddynalla/Verifiable-RAG-Assistant.git
 
-cd verifiable-rag-assistant
+cd Verifiable-RAG-Assistant
 ```
 
 ---
