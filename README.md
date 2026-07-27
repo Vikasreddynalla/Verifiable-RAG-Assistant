@@ -319,8 +319,8 @@ This project is licensed under the **MIT License**.
 
 **Mulluri Nivas**
 
-- GitHub: https://github.com/nivas0408
-- LinkedIn: https://www.linkedin.com/in/mulluri-nivas-09053a31a/
+- GitHub: https://github.com/Vikasreddynalla
+- LinkedIn: https://www.linkedin.com/in/vikasreddy-nalla/
 
 ---
 
