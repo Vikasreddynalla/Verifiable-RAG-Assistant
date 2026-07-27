@@ -159,7 +159,7 @@ Verifiable-RAG-Assistant/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nivas0408/verifiable-rag-assistant.git
+git clone https://github.com/Vikasreddynalla08/verifiable-rag-assistant.git
 
 cd verifiable-rag-assistant
 ```
